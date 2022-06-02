@@ -1,0 +1,12 @@
+1338587508,0,Medico
+1338587508,0,Sala de Espera
+1338587508,0,Triagem
+1338587508,0,Sala de Admissao
+1338587508,0,Medico
+1338587508,0,Sala de Espera
+1338587508,0,Triagem
+1338587508,0,Sala de Admissao
+1338587508,0,Medico
+1338587508,0,Sala de Espera
+1338587508,0,Triagem
+1338587508,0,Sala de Admissao
