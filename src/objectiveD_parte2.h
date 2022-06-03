@@ -30,6 +30,4 @@ _Bool consumingD(int pos);
 
 int hash(long timestamp);
 
-
-
 #endif //SO_PROJETO_OBJECTIVED_PARTE2_H
