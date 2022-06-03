@@ -1,75 +1,79 @@
-1425443410,0,Medico
-1425443410,0,Sala de Espera
-1425443410,0,Triagem
-1425443410,0,Sala de Admissao
 1425443342,0,Medico
 1425443342,0,Sala de Espera
 1425443342,0,Triagem
 1425443342,0,Sala de Admissao
-1425444113,0,Medico
-1425444113,3,Sala de Espera
-1425444113,0,Triagem
-1425444113,0,Sala de Admissao
 1425443419,0,Medico
 1425443419,0,Sala de Espera
 1425443419,0,Triagem
 1425443419,0,Sala de Admissao
+1425443410,0,Medico
+1425443410,0,Sala de Espera
+1425443410,0,Triagem
+1425443410,0,Sala de Admissao
 1425443602,0,Medico
 1425443602,0,Sala de Espera
 1425443602,0,Triagem
 1425443602,2,Sala de Admissao
-1425444514,0,Medico
-1425444514,2,Sala de Espera
-1425444514,1,Triagem
-1425444514,0,Sala de Admissao
+1425444113,0,Triagem
+1425444113,0,Medico
+1425444113,3,Sala de Espera
+1425444113,0,Sala de Admissao
 1425444148,0,Medico
 1425444148,1,Sala de Espera
 1425444148,0,Triagem
 1425444148,1,Sala de Admissao
-1425446994,0,Triagem
-1425446994,4,Medico
-1425446994,2,Sala de Espera
-1425446994,2,Sala de Admissao
-1425447046,2,Sala de Espera
-1425447046,4,Medico
-1425447046,1,Triagem
-1425447046,2,Sala de Admissao
-1425446974,4,Medico
-1425446974,2,Sala de Espera
-1425446974,0,Triagem
-1425446974,1,Sala de Admissao
-1425447499,3,Medico
-1425447499,4,Sala de Espera
-1425447499,1,Triagem
-1425447499,1,Sala de Admissao
+1425444514,0,Sala de Admissao
+1425444514,0,Medico
+1425444514,2,Sala de Espera
+1425444514,1,Triagem
 1425446050,3,Medico
 1425446050,1,Sala de Espera
 1425446050,0,Triagem
 1425446050,0,Sala de Admissao
+1425447499,3,Medico
+1425447499,4,Sala de Espera
+1425447499,1,Triagem
+1425447499,1,Sala de Admissao
 1425446878,3,Medico
 1425446878,2,Sala de Espera
 1425446878,0,Triagem
 1425446878,0,Sala de Admissao
+1425446974,4,Medico
+1425446974,2,Sala de Espera
+1425446974,0,Triagem
+1425446974,1,Sala de Admissao
+1425446994,4,Medico
+1425446994,2,Sala de Espera
+1425446994,0,Triagem
+1425446994,2,Sala de Admissao
+1425447690,0,Triagem
 1425447690,2,Medico
 1425447690,5,Sala de Espera
-1425447690,0,Triagem
 1425447690,2,Sala de Admissao
+1425447046,1,Triagem
+1425447046,4,Medico
+1425447046,2,Sala de Espera
+1425447046,2,Sala de Admissao
+1425448986,5,Medico
+1425448986,5,Sala de Espera
+1425448986,0,Triagem
+1425448986,0,Sala de Admissao
+1425448007,0,Triagem
 1425448007,4,Medico
 1425448007,3,Sala de Espera
-1425448007,0,Triagem
 1425448007,3,Sala de Admissao
 1425449071,5,Medico
 1425449071,5,Sala de Espera
 1425449071,0,Triagem
 1425449071,1,Sala de Admissao
-1425448986,0,Triagem
-1425448986,5,Medico
-1425448986,5,Sala de Espera
-1425448986,0,Sala de Admissao
-1425450516,6,Medico
-1425450516,6,Sala de Espera
-1425450516,0,Triagem
-1425450516,1,Sala de Admissao
+1425450217,5,Medico
+1425450217,7,Sala de Espera
+1425450217,0,Triagem
+1425450217,0,Sala de Admissao
+1425450685,6,Medico
+1425450685,6,Sala de Espera
+1425450685,0,Triagem
+1425450685,3,Sala de Admissao
 1425449500,5,Medico
 1425449500,4,Sala de Espera
 1425449500,0,Triagem
@@ -78,150 +82,154 @@
 1425450580,6,Sala de Espera
 1425450580,0,Triagem
 1425450580,2,Sala de Admissao
+1425450516,6,Medico
+1425450516,6,Sala de Espera
+1425450516,0,Triagem
+1425450516,1,Sala de Admissao
+1425452298,2,Sala de Admissao
+1425452298,7,Medico
+1425452298,7,Sala de Espera
+1425452298,0,Triagem
 1425449677,5,Medico
 1425449677,5,Sala de Espera
 1425449677,0,Triagem
 1425449677,1,Sala de Admissao
-1425450685,6,Medico
-1425450685,6,Sala de Espera
-1425450217,5,Medico
-1425450217,7,Sala de Espera
-1425450217,0,Triagem
-1425450217,0,Sala de Admissao
-1425450745,4,Sala de Admissao
-1425450745,6,Medico
-1425450745,6,Sala de Espera
-1425450745,0,Triagem
-1425450685,0,Triagem
-1425450685,3,Sala de Admissao
-1425452298,7,Medico
-1425452298,7,Sala de Espera
-1425452298,0,Triagem
-1425452298,2,Sala de Admissao
-1425452560,0,Triagem
-1425452560,7,Medico
-1425452560,8,Sala de Espera
-1425452560,2,Sala de Admissao
-1425451594,7,Medico
-1425451594,7,Sala de Espera
-1425451594,0,Triagem
-1425451594,2,Sala de Admissao
+1425454254,1,Sala de Admissao
+1425454254,9,Medico
+1425454254,9,Sala de Espera
+1425454254,0,Triagem
 1425453432,8,Medico
 1425453432,9,Sala de Espera
 1425453432,0,Triagem
 1425453432,1,Sala de Admissao
-1425455815,9,Medico
-1425455815,11,Sala de Espera
-1425455815,0,Triagem
-1425455815,0,Sala de Admissao
-1425456254,0,Sala de Admissao
-1425456254,10,Medico
-1425456254,11,Sala de Espera
-1425456254,0,Triagem
+1425450745,6,Medico
+1425450745,6,Sala de Espera
+1425450745,0,Triagem
+1425450745,4,Sala de Admissao
+1425451594,7,Medico
+1425451594,7,Sala de Espera
+1425451594,0,Triagem
+1425451594,2,Sala de Admissao
+1425452560,7,Medico
+1425452560,8,Sala de Espera
+1425452560,0,Triagem
+1425452560,2,Sala de Admissao
 1425452719,7,Medico
 1425452719,8,Sala de Espera
 1425452719,1,Triagem
 1425452719,2,Sala de Admissao
-1425454514,2,Sala de Admissao
-1425454514,10,Medico
-1425454514,8,Sala de Espera
-1425454514,0,Triagem
-1425454254,9,Medico
-1425454254,9,Sala de Espera
-1425454254,0,Triagem
-1425454254,1,Sala de Admissao
 1425454877,10,Medico
 1425454877,8,Sala de Espera
 1425454877,1,Triagem
 1425454877,2,Sala de Admissao
-1425457870,8,Medico
-1425457870,11,Sala de Espera
-1425457870,1,Triagem
-1425457870,0,Sala de Admissao
 1425457472,8,Medico
 1425457472,10,Sala de Espera
 1425457472,0,Triagem
 1425457472,1,Sala de Admissao
-1425460980,0,Sala de Admissao
-1425460980,10,Medico
-1425460980,2,Sala de Espera
-1425460980,0,Triagem
-1425459822,14,Medico
-1425459822,3,Sala de Espera
-1425459822,0,Triagem
-1425459822,1,Sala de Admissao
-1425461145,10,Medico
-1425461145,1,Sala de Espera
-1425461145,1,Triagem
-1425461145,0,Sala de Admissao
+1425454514,10,Medico
+1425454514,8,Sala de Espera
+1425454514,0,Triagem
+1425454514,2,Sala de Admissao
+1425455815,9,Medico
+1425455815,11,Sala de Espera
+1425455815,0,Triagem
+1425455815,0,Sala de Admissao
 1425457186,8,Medico
 1425457186,11,Sala de Espera
 1425457186,0,Triagem
 1425457186,0,Sala de Admissao
+1425457870,11,Sala de Espera
+1425457870,8,Medico
+1425457870,1,Triagem
+1425457870,0,Sala de Admissao
 1425459422,13,Medico
 1425459422,5,Sala de Espera
 1425459422,0,Triagem
 1425459422,0,Sala de Admissao
+1425459822,14,Medico
+1425459822,3,Sala de Espera
+1425459822,0,Triagem
+1425459822,1,Sala de Admissao
+1425460980,10,Medico
+1425461145,10,Medico
+1425461145,1,Sala de Espera
+1425461145,1,Triagem
+1425461145,0,Sala de Admissao
+1425461626,0,Sala de Admissao
+1425461626,11,Medico
+1425461626,2,Sala de Espera
+1425461626,0,Triagem
 1425459498,12,Medico
 1425459498,5,Sala de Espera
 1425459498,0,Triagem
 1425459498,1,Sala de Admissao
-1425466058,6,Medico
-1425466058,0,Sala de Espera
-1425466058,0,Triagem
-1425466058,1,Sala de Admissao
-1425466006,0,Sala de Admissao
+1425460980,2,Sala de Espera
+1425460980,0,Triagem
+1425460980,0,Sala de Admissao
+1425456254,10,Medico
+1425456254,11,Sala de Espera
+1425456254,0,Triagem
+1425456254,0,Sala de Admissao
+1425467199,0,Sala de Admissao
+1425467199,7,Medico
+1425467199,3,Sala de Espera
+1425467199,0,Triagem
 1425466006,9,Medico
 1425466006,0,Sala de Espera
 1425466006,0,Triagem
-1425461626,11,Medico
-1425461626,2,Sala de Espera
-1425461626,0,Triagem
-1425461626,0,Sala de Admissao
+1425466006,0,Sala de Admissao
+1425466707,7,Medico
+1425466707,2,Sala de Espera
 1425466209,6,Medico
 1425466209,0,Sala de Espera
 1425466209,0,Triagem
 1425466209,2,Sala de Admissao
-1425467686,9,Medico
-1425467686,2,Sala de Espera
-1425467686,1,Triagem
-1425467686,1,Sala de Admissao
-1425466707,7,Medico
-1425466707,2,Sala de Espera
 1425466707,0,Triagem
 1425466707,1,Sala de Admissao
 1425467552,9,Medico
 1425467552,1,Sala de Espera
 1425467552,1,Triagem
 1425467552,1,Sala de Admissao
+1425466058,6,Medico
+1425466058,0,Sala de Espera
+1425466058,0,Triagem
+1425466058,1,Sala de Admissao
+1425467385,1,Sala de Espera
+1425467385,9,Medico
+1425467385,0,Triagem
+1425467385,1,Sala de Admissao
 1425470069,8,Medico
 1425470069,3,Sala de Espera
 1425470069,0,Triagem
 1425470069,1,Sala de Admissao
-1425467199,7,Medico
-1425467199,3,Sala de Espera
-1425467199,0,Triagem
-1425467199,0,Sala de Admissao
-1425467385,9,Medico
-1425467385,1,Sala de Espera
-1425467385,0,Triagem
-1425467385,1,Sala de Admissao
-1425469786,8,Medico
-1425469786,2,Sala de Espera
-1425469786,1,Triagem
-1425469786,0,Sala de Admissao
+1425472607,7,Medico
+1425472607,3,Sala de Espera
+1425472607,0,Triagem
+1425472607,4,Sala de Admissao
+1425472943,6,Sala de Admissao
+1425472943,7,Medico
+1425472943,3,Sala de Espera
+1425472943,0,Triagem
 1425469472,8,Medico
 1425469472,4,Sala de Espera
 1425469472,0,Triagem
 1425469472,0,Sala de Admissao
-1425472607,0,Triagem
-1425472607,7,Medico
-1425472607,3,Sala de Espera
-1425472607,4,Sala de Admissao
-1425472943,7,Medico
-1425472943,3,Sala de Espera
-1425472943,0,Triagem
-1425472943,6,Sala de Admissao
+1425469786,8,Medico
+1425469786,2,Sala de Espera
+1425469786,1,Triagem
+1425469786,0,Sala de Admissao
+1425467686,2,Sala de Espera
+1425467686,9,Medico
+1425467686,1,Triagem
+1425467686,1,Sala de Admissao
+1425470565,8,Medico
+1425470565,3,Sala de Espera
+1425470565,0,Triagem
+1425470565,2,Sala de Admissao
+1425472859,7,Medico
+1425472859,3,Sala de Espera
+1425472859,0,Triagem
+1425472859,5,Sala de Admissao
 1425471802,7,Medico
 1425471802,3,Sala de Espera
 1425471802,0,Triagem
@@ -234,394 +242,386 @@
 1425473095,3,Sala de Espera
 1425473095,0,Triagem
 1425473095,7,Sala de Admissao
-1425470565,8,Medico
-1425470565,3,Sala de Espera
-1425470565,0,Triagem
-1425470565,2,Sala de Admissao
-1425472859,7,Medico
-1425472859,3,Sala de Espera
-1425472859,0,Triagem
-1425472859,5,Sala de Admissao
-1425474501,10,Medico
-1425474501,1,Sala de Espera
-1425474501,0,Triagem
-1425474501,8,Sala de Admissao
 1425474228,11,Medico
 1425474228,0,Sala de Espera
 1425474228,0,Triagem
 1425474228,8,Sala de Admissao
+1425475842,0,Triagem
+1425475842,12,Medico
+1425475842,3,Sala de Espera
+1425475842,3,Sala de Admissao
 1425476440,12,Medico
 1425476440,3,Sala de Espera
 1425476440,1,Triagem
 1425476440,4,Sala de Admissao
-1425477151,4,Sala de Admissao
-1425477151,15,Medico
-1425477151,1,Sala de Espera
-1425477151,1,Triagem
-1425475842,3,Sala de Admissao
-1425475842,12,Medico
-1425475842,3,Sala de Espera
-1425475842,0,Triagem
 1425476116,12,Medico
 1425476116,3,Sala de Espera
 1425476116,0,Triagem
 1425476116,4,Sala de Admissao
-1425476477,12,Medico
-1425476477,4,Sala de Espera
-1425476477,0,Triagem
-1425476477,5,Sala de Admissao
+1425474501,10,Medico
+1425474501,1,Sala de Espera
+1425474501,0,Triagem
+1425474501,8,Sala de Admissao
+1425478253,2,Sala de Admissao
+1425478253,17,Medico
+1425478253,6,Sala de Espera
+1425478253,0,Triagem
 1425477519,15,Medico
 1425477519,3,Sala de Espera
 1425477519,0,Triagem
 1425477519,4,Sala de Admissao
-1425478253,0,Triagem
-1425478253,17,Medico
-1425478253,6,Sala de Espera
-1425478253,2,Sala de Admissao
-1425479438,17,Medico
-1425479438,3,Sala de Espera
-1425479438,0,Triagem
-1425479438,3,Sala de Admissao
+1425476477,12,Medico
+1425476477,4,Sala de Espera
+1425476477,0,Triagem
+1425476477,5,Sala de Admissao
+1425477151,15,Medico
+1425477151,1,Sala de Espera
+1425477151,1,Triagem
+1425477151,4,Sala de Admissao
+1425478281,18,Medico
+1425478281,5,Sala de Espera
+1425478281,0,Triagem
+1425478281,3,Sala de Admissao
 1425478220,16,Medico
 1425478220,7,Sala de Espera
 1425478220,0,Triagem
 1425478220,1,Sala de Admissao
-1425478313,18,Medico
-1425478313,5,Sala de Espera
-1425478313,0,Triagem
-1425478313,4,Sala de Admissao
-1425478281,3,Sala de Admissao
-1425478281,18,Medico
-1425478281,5,Sala de Espera
-1425478281,0,Triagem
-1425479494,4,Sala de Admissao
-1425479494,14,Medico
-1425479494,3,Sala de Espera
-1425479494,0,Triagem
-1425481163,7,Sala de Admissao
-1425481163,16,Medico
-1425481163,4,Sala de Espera
-1425481163,0,Triagem
-1425480835,15,Medico
-1425480835,5,Sala de Espera
-1425480835,0,Triagem
-1425480835,6,Sala de Admissao
-1425479950,14,Medico
-1425479950,4,Sala de Espera
-1425479950,1,Triagem
-1425479950,3,Sala de Admissao
-1425480359,18,Medico
-1425480359,4,Sala de Espera
-1425480359,0,Triagem
-1425480359,5,Sala de Admissao
-1425481581,16,Medico
-1425481581,3,Sala de Espera
-1425481581,1,Triagem
-1425481581,8,Sala de Admissao
+1425479438,17,Medico
+1425479438,3,Sala de Espera
+1425479438,0,Triagem
+1425479438,3,Sala de Admissao
 1425480198,17,Medico
 1425480198,5,Sala de Espera
 1425480198,0,Triagem
 1425480198,4,Sala de Admissao
-1425480468,4,Sala de Espera
-1425480468,17,Medico
-1425480468,1,Triagem
-1425480468,5,Sala de Admissao
+1425479950,14,Medico
+1425479950,4,Sala de Espera
+1425479950,1,Triagem
+1425479950,3,Sala de Admissao
+1425478313,4,Sala de Admissao
+1425478313,18,Medico
+1425478313,5,Sala de Espera
+1425478313,0,Triagem
+1425479494,14,Medico
+1425479494,3,Sala de Espera
+1425479494,0,Triagem
+1425479494,4,Sala de Admissao
+1425480359,18,Medico
+1425480359,4,Sala de Espera
+1425480359,0,Triagem
+1425480359,5,Sala de Admissao
+1425481163,16,Medico
+1425481163,4,Sala de Espera
+1425481163,0,Triagem
+1425481163,7,Sala de Admissao
 1425481466,8,Sala de Admissao
 1425481466,16,Medico
 1425481466,3,Sala de Espera
 1425481466,0,Triagem
-1425482441,16,Medico
-1425482441,7,Sala de Espera
-1425482441,0,Triagem
-1425482441,6,Sala de Admissao
-1425482854,7,Sala de Espera
-1425482854,16,Medico
-1425482854,0,Triagem
-1425482854,6,Sala de Admissao
-1425483055,14,Medico
-1425483055,6,Sala de Espera
-1425483055,0,Triagem
-1425483055,7,Sala de Admissao
-1425482607,16,Medico
-1425482607,6,Sala de Espera
-1425482607,1,Triagem
-1425482607,6,Sala de Admissao
-1425483497,9,Sala de Admissao
-1425483497,17,Medico
-1425483497,6,Sala de Espera
-1425483497,0,Triagem
 1425482323,0,Triagem
 1425482323,16,Medico
 1425482323,6,Sala de Espera
 1425482323,6,Sala de Admissao
+1425481581,16,Medico
+1425481581,3,Sala de Espera
+1425481581,1,Triagem
+1425481581,8,Sala de Admissao
+1425482441,16,Medico
+1425482441,7,Sala de Espera
+1425482441,0,Triagem
+1425482441,6,Sala de Admissao
+1425480835,15,Medico
+1425480835,5,Sala de Espera
+1425480835,0,Triagem
+1425480835,6,Sala de Admissao
+1425482607,16,Medico
+1425482607,6,Sala de Espera
+1425482607,1,Triagem
+1425482607,6,Sala de Admissao
+1425480468,17,Medico
+1425480468,4,Sala de Espera
+1425480468,1,Triagem
+1425480468,5,Sala de Admissao
+1425483055,14,Medico
+1425483055,6,Sala de Espera
+1425483055,0,Triagem
+1425483055,7,Sala de Admissao
+1425483818,17,Medico
+1425483818,5,Sala de Espera
+1425483818,0,Triagem
+1425483818,10,Sala de Admissao
 1425483989,17,Medico
 1425483989,5,Sala de Espera
 1425483989,0,Triagem
 1425483989,11,Sala de Admissao
-1425483119,8,Sala de Admissao
+1425483497,17,Medico
+1425483497,6,Sala de Espera
+1425483497,0,Triagem
+1425483497,9,Sala de Admissao
 1425483119,14,Medico
 1425483119,6,Sala de Espera
 1425483119,0,Triagem
-1425483818,10,Sala de Admissao
-1425483818,17,Medico
-1425483818,5,Sala de Espera
-1425483818,0,Triagem
-1425485249,16,Medico
-1425485249,5,Sala de Espera
-1425485249,0,Triagem
-1425485249,9,Sala de Admissao
-1425485923,13,Medico
+1425483119,8,Sala de Admissao
+1425482854,16,Medico
+1425482854,7,Sala de Espera
+1425482854,0,Triagem
+1425482854,6,Sala de Admissao
 1425485923,4,Sala de Espera
+1425485923,13,Medico
 1425485923,0,Triagem
 1425485923,11,Sala de Admissao
-1425486617,15,Medico
-1425486617,2,Sala de Espera
-1425486617,0,Triagem
-1425486617,11,Sala de Admissao
-1425487666,6,Sala de Espera
-1425487666,16,Medico
-1425487666,0,Triagem
-1425487666,6,Sala de Admissao
 1425484540,0,Triagem
 1425484540,17,Medico
 1425484540,3,Sala de Espera
 1425484540,11,Sala de Admissao
+1425485281,0,Triagem
 1425485281,15,Medico
 1425485281,5,Sala de Espera
-1425485281,0,Triagem
 1425485281,10,Sala de Admissao
-1425490042,16,Medico
-1425490042,4,Sala de Espera
-1425490042,0,Triagem
-1425490042,7,Sala de Admissao
-1425491382,7,Sala de Espera
-1425491382,12,Medico
-1425491382,0,Triagem
-1425491382,6,Sala de Admissao
+1425485249,16,Medico
+1425485249,5,Sala de Espera
+1425485249,0,Triagem
+1425485249,9,Sala de Admissao
 1425486060,13,Medico
 1425486060,4,Sala de Espera
 1425486060,0,Triagem
 1425486060,12,Sala de Admissao
+1425487666,16,Medico
+1425487666,6,Sala de Espera
+1425487666,0,Triagem
+1425487666,6,Sala de Admissao
+1425486617,15,Medico
+1425486617,2,Sala de Espera
+1425486617,0,Triagem
+1425486617,11,Sala de Admissao
+1425491382,12,Medico
+1425491382,7,Sala de Espera
+1425491382,0,Triagem
+1425491382,6,Sala de Admissao
+1425488063,17,Medico
+1425488063,5,Sala de Espera
+1425488063,0,Triagem
+1425488063,7,Sala de Admissao
 1425490325,16,Medico
 1425490325,4,Sala de Espera
 1425490325,0,Triagem
 1425490325,8,Sala de Admissao
-1425488063,7,Sala de Admissao
-1425488063,17,Medico
-1425488063,5,Sala de Espera
-1425488063,0,Triagem
-1425492713,0,Triagem
+1425490042,16,Medico
+1425490042,4,Sala de Espera
+1425490042,0,Triagem
+1425490042,7,Sala de Admissao
 1425492713,11,Medico
 1425492713,9,Sala de Espera
+1425492713,0,Triagem
 1425492713,7,Sala de Admissao
 1425491925,12,Medico
 1425491925,8,Sala de Espera
 1425491925,0,Triagem
 1425491925,7,Sala de Admissao
-1425491713,0,Triagem
 1425491713,12,Medico
 1425491713,8,Sala de Espera
+1425491713,0,Triagem
 1425491713,6,Sala de Admissao
-1425492013,12,Medico
-1425492013,8,Sala de Espera
-1425492013,0,Triagem
-1425492013,8,Sala de Admissao
+1425492768,8,Sala de Admissao
+1425492768,11,Medico
+1425492768,8,Sala de Espera
+1425492768,0,Triagem
 1425493207,11,Medico
 1425493207,7,Sala de Espera
 1425493207,0,Triagem
 1425493207,9,Sala de Admissao
-1425494227,7,Sala de Admissao
-1425494227,12,Medico
-1425494227,7,Sala de Espera
-1425494227,0,Triagem
-1425492768,8,Sala de Espera
-1425492768,11,Medico
-1425492768,0,Triagem
-1425492768,8,Sala de Admissao
-1425493571,13,Medico
-1425493571,6,Sala de Espera
-1425493571,1,Triagem
-1425493571,8,Sala de Admissao
+1425494974,0,Triagem
 1425494974,13,Medico
 1425494974,6,Sala de Espera
-1425494974,0,Triagem
 1425494974,6,Sala de Admissao
-1425495495,12,Sala de Admissao
-1425495495,12,Medico
-1425495495,6,Sala de Espera
-1425495495,0,Triagem
 1425495014,12,Medico
 1425495014,6,Sala de Espera
 1425495014,0,Triagem
 1425495014,7,Sala de Admissao
-1425495055,12,Medico
-1425495055,6,Sala de Espera
-1425495055,0,Triagem
-1425495055,8,Sala de Admissao
-1425495117,6,Sala de Espera
-1425495117,12,Medico
-1425495117,0,Triagem
-1425495117,10,Sala de Admissao
+1425495087,9,Sala de Admissao
 1425495087,12,Medico
 1425495087,6,Sala de Espera
 1425495087,0,Triagem
-1425495087,9,Sala de Admissao
-1425496079,12,Sala de Admissao
-1425496079,12,Medico
-1425496079,4,Sala de Espera
-1425496079,1,Triagem
-1425496705,10,Sala de Admissao
-1425496705,14,Medico
-1425496705,6,Sala de Espera
-1425496705,0,Triagem
+1425493571,13,Medico
+1425493571,6,Sala de Espera
+1425493571,1,Triagem
+1425493571,8,Sala de Admissao
 1425495253,12,Medico
 1425495253,6,Sala de Espera
 1425495253,0,Triagem
 1425495253,11,Sala de Admissao
-1425496977,14,Medico
-1425496977,9,Sala de Espera
-1425496977,0,Triagem
-1425496977,9,Sala de Admissao
-1425497163,14,Medico
-1425497163,10,Sala de Espera
-1425497163,1,Triagem
-1425497163,8,Sala de Admissao
+1425494227,12,Medico
+1425494227,7,Sala de Espera
+1425494227,0,Triagem
+1425494227,7,Sala de Admissao
+1425495517,13,Sala de Admissao
 1425495517,12,Medico
 1425495517,6,Sala de Espera
 1425495517,0,Triagem
-1425495517,13,Sala de Admissao
+1425495055,12,Medico
+1425495055,6,Sala de Espera
+1425495055,0,Triagem
+1425495055,8,Sala de Admissao
+1425495495,12,Medico
+1425495495,6,Sala de Espera
+1425495495,0,Triagem
+1425495495,12,Sala de Admissao
+1425496705,14,Medico
+1425496705,6,Sala de Espera
+1425496705,0,Triagem
+1425496705,10,Sala de Admissao
+1425496079,12,Medico
+1425496079,4,Sala de Espera
+1425496079,1,Triagem
+1425496079,12,Sala de Admissao
+1425492013,8,Sala de Espera
+1425492013,12,Medico
+1425492013,0,Triagem
+1425492013,8,Sala de Admissao
+1425496789,12,Sala de Admissao
 1425496789,14,Medico
 1425496789,6,Sala de Espera
 1425496789,0,Triagem
-1425496789,12,Sala de Admissao
-1425498835,6,Sala de Admissao
-1425498835,17,Medico
-1425498835,9,Sala de Espera
-1425498835,0,Triagem
+1425498178,4,Sala de Admissao
 1425498178,16,Medico
 1425498178,13,Sala de Espera
 1425498178,0,Triagem
-1425498178,4,Sala de Admissao
-1425499703,14,Medico
-1425499703,13,Sala de Espera
-1425499703,0,Triagem
-1425499703,3,Sala de Admissao
-1425496751,6,Sala de Espera
-1425496751,14,Medico
-1425496751,0,Triagem
-1425496751,11,Sala de Admissao
-1425499620,14,Medico
-1425499620,13,Sala de Espera
-1425499620,1,Triagem
-1425499620,2,Sala de Admissao
-1425498889,17,Medico
-1425498889,9,Sala de Espera
-1425498889,0,Triagem
-1425498889,7,Sala de Admissao
 1425498756,5,Sala de Admissao
 1425498756,17,Medico
 1425498756,9,Sala de Espera
 1425498756,0,Triagem
+1425496977,14,Medico
+1425496977,9,Sala de Espera
+1425496977,0,Triagem
+1425496977,9,Sala de Admissao
+1425496751,14,Medico
+1425496751,6,Sala de Espera
+1425496751,0,Triagem
+1425496751,11,Sala de Admissao
+1425495117,12,Medico
+1425495117,6,Sala de Espera
+1425495117,0,Triagem
+1425495117,10,Sala de Admissao
+1425499620,14,Medico
+1425499620,13,Sala de Espera
+1425499620,1,Triagem
+1425499620,2,Sala de Admissao
+1425497163,14,Medico
+1425497163,10,Sala de Espera
+1425497163,1,Triagem
+1425497163,8,Sala de Admissao
+1425498889,17,Medico
+1425498889,9,Sala de Espera
+1425498889,0,Triagem
+1425498889,7,Sala de Admissao
+1425500100,5,Sala de Admissao
 1425500100,14,Medico
 1425500100,12,Sala de Espera
 1425500100,0,Triagem
-1425500100,5,Sala de Admissao
-1425499828,13,Medico
-1425499828,13,Sala de Espera
-1425499828,0,Triagem
-1425499828,4,Sala de Admissao
+1425499703,14,Medico
+1425499703,13,Sala de Espera
+1425499703,0,Triagem
+1425499703,3,Sala de Admissao
+1425498835,17,Medico
+1425498835,9,Sala de Espera
+1425498835,0,Triagem
+1425498835,6,Sala de Admissao
+1425500992,7,Sala de Admissao
+1425500992,15,Medico
+1425500992,12,Sala de Espera
+1425500992,0,Triagem
 1425500061,14,Medico
 1425500061,12,Sala de Espera
 1425500061,1,Triagem
 1425500061,4,Sala de Admissao
-1425500762,14,Medico
-1425500762,14,Sala de Espera
-1425500762,0,Triagem
-1425500762,6,Sala de Admissao
-1425500219,12,Sala de Espera
-1425500219,15,Medico
-1425500219,1,Triagem
-1425500219,5,Sala de Admissao
-1425500992,15,Medico
-1425500992,12,Sala de Espera
-1425500992,0,Triagem
-1425500992,7,Sala de Admissao
-1425501555,14,Medico
-1425501555,12,Sala de Espera
-1425501555,0,Triagem
-1425501555,7,Sala de Admissao
-1425501696,2,Triagem
-1425501696,14,Medico
-1425501696,13,Sala de Espera
-1425501696,6,Sala de Admissao
-1425500701,0,Triagem
+1425499828,13,Medico
+1425499828,13,Sala de Espera
+1425499828,0,Triagem
+1425499828,4,Sala de Admissao
 1425500701,14,Medico
 1425500701,14,Sala de Espera
+1425500701,0,Triagem
 1425500701,5,Sala de Admissao
-1425501871,15,Medico
-1425501871,14,Sala de Espera
-1425501871,2,Triagem
-1425501871,6,Sala de Admissao
 1425501609,14,Medico
 1425501609,12,Sala de Espera
 1425501609,1,Triagem
 1425501609,7,Sala de Admissao
+1425500219,15,Medico
+1425500219,12,Sala de Espera
+1425500219,1,Triagem
+1425500219,5,Sala de Admissao
+1425500762,14,Medico
+1425500762,14,Sala de Espera
+1425500762,0,Triagem
+1425500762,6,Sala de Admissao
+1425501555,14,Medico
+1425501555,12,Sala de Espera
+1425501555,0,Triagem
+1425501555,7,Sala de Admissao
+1425501936,15,Medico
+1425501936,15,Sala de Espera
+1425501936,1,Triagem
+1425501936,7,Sala de Admissao
+1425501871,15,Medico
+1425501871,14,Sala de Espera
+1425501871,2,Triagem
+1425501871,6,Sala de Admissao
 1425501761,14,Medico
 1425501761,15,Sala de Espera
 1425501761,1,Triagem
 1425501761,6,Sala de Admissao
-1425502651,18,Medico
-1425502651,17,Sala de Espera
-1425502651,1,Triagem
-1425502651,4,Sala de Admissao
-1425501936,7,Sala de Admissao
-1425501936,15,Medico
-1425501936,15,Sala de Espera
-1425501936,1,Triagem
-1425502035,16,Medico
 1425502035,15,Sala de Espera
+1425502035,16,Medico
 1425502035,0,Triagem
 1425502035,8,Sala de Admissao
-1425504450,19,Medico
-1425504450,16,Sala de Espera
-1425504450,0,Triagem
-1425504450,3,Sala de Admissao
 1425502375,19,Medico
 1425502375,15,Sala de Espera
 1425502375,0,Triagem
 1425502375,6,Sala de Admissao
-1425504472,19,Medico
-1425504472,16,Sala de Espera
-1425504472,0,Triagem
-1425504472,4,Sala de Admissao
-1425503195,17,Medico
+1425501696,14,Medico
+1425501696,13,Sala de Espera
+1425501696,2,Triagem
+1425501696,6,Sala de Admissao
+1425502651,18,Medico
+1425502651,17,Sala de Espera
+1425502651,1,Triagem
 1425503195,17,Sala de Espera
+1425503195,17,Medico
 1425503195,1,Triagem
 1425503195,3,Sala de Admissao
-1425504355,18,Medico
-1425504355,17,Sala de Espera
-1425504355,0,Triagem
-1425504355,2,Sala de Admissao
-1425502889,3,Sala de Admissao
-1425502889,20,Medico
-1425502889,16,Sala de Espera
-1425502889,1,Triagem
+1425502651,4,Sala de Admissao
 1425503392,17,Medico
 1425503392,17,Sala de Espera
 1425503392,1,Triagem
 1425503392,3,Sala de Admissao
-1425504959,15,Sala de Espera
-1425504959,18,Medico
-1425504959,0,Triagem
-1425504959,4,Sala de Admissao
-1425504598,20,Medico
-1425504598,15,Sala de Espera
-1425504598,0,Triagem
-1425504598,5,Sala de Admissao
+1425504472,19,Medico
+1425504472,16,Sala de Espera
+1425504472,0,Triagem
+1425504472,4,Sala de Admissao
+1425504355,18,Medico
+1425504355,17,Sala de Espera
+1425504355,0,Triagem
+1425504355,2,Sala de Admissao
+1425502889,1,Triagem
+1425502889,20,Medico
+1425502889,16,Sala de Espera
+1425502889,3,Sala de Admissao
 1425505001,18,Medico
 1425505001,15,Sala de Espera
 1425505001,0,Triagem
 1425505001,5,Sala de Admissao
+1425504450,19,Medico
+1425504450,16,Sala de Espera
+1425504450,0,Triagem
+1425504450,3,Sala de Admissao
+1425504598,20,Medico
+1425504598,15,Sala de Espera
+1425504598,0,Triagem
+1425504598,5,Sala de Admissao
+1425504959,18,Medico
+1425504959,15,Sala de Espera
+1425504959,0,Triagem
+1425504959,4,Sala de Admissao
 1425505136,20,Medico
 1425505136,15,Sala de Espera
 1425505136,1,Triagem

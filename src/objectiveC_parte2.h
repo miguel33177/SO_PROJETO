@@ -31,9 +31,6 @@ void producingC(int current, int pos);
 
 _Bool consumingC(int pos);
 
-boolean_t existsInArray(int x);
-
-boolean_t existsFile(char *fileNameYear);
 
 void fillDescriptorsArray(int fds, char fileName[]);
 
