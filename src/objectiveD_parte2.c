@@ -112,6 +112,7 @@ void producingD(int current, int pos) {
         }
         if (myData[current].T1 > myData[j].T4 && myData[current].T1 < myData[j].T5) {
             room[3]++;
+
         }
     }
     for (int z = 0; z < 4; z++) {
